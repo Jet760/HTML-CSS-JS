@@ -10,7 +10,7 @@ type `HTML:5` and press `TAB` for the Emmet coding to expand to the default
 
 Add:
 -header
--container div
+-container main
 -footer
 
 In the HEAD make the title "WebTech".
