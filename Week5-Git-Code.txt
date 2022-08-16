@@ -1,0 +1,49 @@
+-- Webstorm
+*new project
+--- Terminal
+*arrows
+*command prompt
+mkdir assests\img
+mkdir assests\css assests\js about assests\media
+git init .
+>> alt route >>
+	*vcs
+	*enable verrsion control
+	*select a version control system
+	*git
+<< close route <<
+-RC- Week5
+*new file
+*name README.md
+
+-RC- Week5
+*new .ignore
+*gitignore file
+--Ignore File Generator
+*Jetbrains
+*Backup
+*Microsoft office
+*VSCode
+*Windows
+*macOS
+*Linux
+
+*Generate Without Duplicates
+*Generate
+
+-RC- about (make one for each empty folder)
+*new file
+*name .keep
+
+
+CTRL+K
+>>> alt route
+	--Git
+	*commit
+<<< close route
+
+#in commit message window, first line is the main message, subesquient lines are extra details
+-created folder struture
+-added . keep files
+-added README.md
+-added .gitignore
