@@ -70,11 +70,11 @@ mkdir folder_name
 
 DOS Example:
 ```shell
-mkdir assests assests\img assests\css assests\js assests\media
+mkdir assets assets\img assets\css assets\js assets\media
 mkdir about
 ```
 
 Linux Example:
 ```shell
-mkdir -p assests/{img,css,js,media} about
+mkdir -p assets/{img,css,js,media} about
 ```
