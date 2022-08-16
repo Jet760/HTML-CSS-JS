@@ -35,15 +35,21 @@ git init .
 *new file
 *name .keep
 
-
+### Committing files in WebStorm
 CTRL+K
->>> alt route
+>> alt route >>
 	--Git
 	*commit
-<<< close route
+<< close route <<
 
-#in commit message window, first line is the main message, subesquient lines are extra details
--created folder struture
+###in commit message window, first line is the main message, subesquient lines are extra details
+-created folder structure
 -added . keep files
 -added README.md
 -added .gitignore
+###
+
+### Creating a gitbuh repo using the IDE
+--git
+*GitHub
+*share project on GitHub
